@@ -21,3 +21,6 @@ Como Transcrever Vídeos do YouTube em Qualquer Idioma com Facilidade: Um Guia P
 - ``Google Colaboratory``
 - ``Whisper``
 - ``Python``
+
+## 📁 Acesso ao projeto
+Você pode acessar o artigo do Medium [aqui]([https://github.com/gui-lirasilva/Edige-POO/tree/master/src](https://medium.com/@imishikawa/como-transcrever-v%C3%ADdeos-do-youtube-em-qualquer-idioma-com-facilidade-um-guia-pr%C3%A1tico-utilizando-c59b234b03d5)).
